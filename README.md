@@ -23,7 +23,7 @@ This project uses a custom responsive layout optimized for clarity, performance,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/chlodav/project-name.git
 cd project-name
 ```
 
